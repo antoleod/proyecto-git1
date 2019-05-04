@@ -1,13 +1,13 @@
-#proyecto-git1
+# proyecto-git1
 proyecto basico
 
 
-##introduccion
+## Introduccion
 
 ```php
 <?php phpinfo(): ?>
 ```
 
-##Description
+## Description
 
 
